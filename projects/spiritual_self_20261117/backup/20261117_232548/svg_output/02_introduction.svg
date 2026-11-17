@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Georgia, serif" data-pptx-page-role="section">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="section-numeral" data-pptx-role="decoration" data-pptx-bounds="72 92 260 282">
+    <text x="80" y="300" font-size="200" font-weight="bold" fill="#D5DEE6">I</text>
+  </g>
+  <g id="section-title" data-pptx-bounds="72 376 1136 112">
+    <text x="80" y="440" font-size="72" font-weight="bold" fill="#1F3A5F">Introduction</text>
+    <rect x="80" y="470" width="140" height="8" fill="#2A9D8F"/>
+    <circle cx="236" cy="474" r="6" fill="#C9A227"/>
+  </g>
+  <g id="section-topics" data-pptx-bounds="72 520 1136 110" font-family="Arial, sans-serif">
+    <text x="80" y="560" font-size="30" fill="#1E2A36">Definition of the spiritual self · Why spirituality matters</text>
+    <text x="80" y="606" font-size="30" fill="#1E2A36">How it shapes beliefs, values, and behavior · Faith and life's purpose</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36" font-family="Arial, sans-serif">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">2</text>
+  </g>
+</svg>

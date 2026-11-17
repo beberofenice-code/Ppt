@@ -1,0 +1,1 @@
+Finally, spirituality helps people discover why their lives matter. A clear sense of meaning and purpose gives direction to their goals, motivates them through hardship, and brings a deeper sense of fulfillment.

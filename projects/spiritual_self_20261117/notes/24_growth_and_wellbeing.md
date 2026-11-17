@@ -1,0 +1,1 @@
+Spirituality benefits people in two connected ways. It supports personal growth by building good character, inner strength, and healthy relationships. It also supports well-being by offering hope, reducing stress, and giving a sense of peace and purpose.

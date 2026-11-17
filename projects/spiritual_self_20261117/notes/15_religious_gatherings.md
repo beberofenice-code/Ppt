@@ -1,0 +1,1 @@
+Many people practice their spirituality together with others, in churches, mosques, temples, or other spiritual communities. Gathering together strengthens faith, and shared rituals and celebrations give people a sense of community and belonging. They remind people that they are not alone.

@@ -1,0 +1,1 @@
+Spirituality is also practiced in how we treat others. Kindness shows care for other people. Forgiveness releases anger and helps heal broken relationships. And gratitude helps us appreciate what we already have. These simple daily practices are among the clearest signs of a spiritual life.

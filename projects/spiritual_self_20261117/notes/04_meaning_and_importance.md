@@ -1,0 +1,1 @@
+Why does spirituality matter? It gives people a sense of direction, so they know where their lives are heading, and a sense of belonging, so they feel part of something larger. It also helps people make sense of their experiences and cope with hard times. For many, it is an important source of comfort, identity, and motivation.

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Georgia, serif" data-pptx-page-role="cover">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="cover-motif" data-pptx-role="decoration" data-pptx-bounds="440 120 400 180">
+    <circle cx="640" cy="210" r="86" fill="none" stroke="#D5DEE6" stroke-width="2"/>
+    <circle cx="640" cy="210" r="58" fill="#EEF4F6"/>
+    <!-- icon: tabler-filled/sparkles -->
+  <g transform="translate(612, 182) scale(2.33333)" fill="#2A9D8F">
+    <path d="M16 19a1 1 0 0 1 0 -2a1 1 0 0 0 1 -1c0 -1.333 2 -1.333 2 0a1 1 0 0 0 1 1c1.333 0 1.333 2 0 2a1 1 0 0 0 -1 1c0 1.333 -2 1.333 -2 0a1 1 0 0 0 -1 -1" />
+    <path d="M3 11a5 5 0 0 0 5 -5c0 -1.333 2 -1.333 2 0a5 5 0 0 0 5 5c1.333 0 1.333 2 0 2a5 5 0 0 0 -5 5a1 1 0 0 1 -2 0a5 5 0 0 0 -5 -5c-1.333 0 -1.333 -2 0 -2" />
+    <path d="M16 7a1 1 0 0 1 0 -2a1 1 0 0 0 1 -1c0 -1.333 2 -1.333 2 0a1 1 0 0 0 1 1c1.333 0 1.333 2 0 2a1 1 0 0 0 -1 1c0 1.333 -2 1.333 -2 0a1 1 0 0 0 -1 -1" />
+  </g>
+  </g>
+  <g id="cover-title" data-pptx-bounds="160 330 960 150">
+    <text x="640" y="430" font-size="112" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Spiritual Self</text>
+  </g>
+  <g id="cover-rule" data-pptx-bounds="540 486 200 24">
+    <rect x="560" y="492" width="140" height="8" fill="#2A9D8F"/>
+    <circle cx="716" cy="496" r="6" fill="#C9A227"/>
+  </g>
+</svg>

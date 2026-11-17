@@ -1,0 +1,368 @@
+{
+  "schema": "ppt-master.pptx-postflight-report.v1",
+  "status": "passed-with-warnings",
+  "output": {
+    "path": "/home/user/Ppt/projects/spiritual_self_20261117/exports/spiritual_self_20261117_232548.pptx",
+    "bytes": 136145
+  },
+  "source": {
+    "svg_slide_count": 26,
+    "layout_definition_count": 0,
+    "fingerprint": {
+      "algorithm": "sha256",
+      "digest": "072654ed86b08a1ffb76653b4ee09fb0cbd1999557dc8f9b38dc6de5acdf40ad",
+      "file_count": 26,
+      "files": [
+        {
+          "file": "01_cover.svg",
+          "sha256": "add1e26c58758148406eccceca94de6cfcc69d5b20d62d65fcfcfc90641ea6b0"
+        },
+        {
+          "file": "02_introduction.svg",
+          "sha256": "ec6f047ffd456f13025359218fdca7fadc58dbe2dfe0be6b7727c05efdbd6062"
+        },
+        {
+          "file": "03_definition_of_spiritual_self.svg",
+          "sha256": "4f69901dd4229440243879dee200a7cf9ae8a41dab58ee2288441b011d88a1ae"
+        },
+        {
+          "file": "04_meaning_and_importance.svg",
+          "sha256": "645ccba319c66ef15f76e91e2f5d9434cad00dda3953847364dbe5f3113430f8"
+        },
+        {
+          "file": "05_beliefs_values_behavior.svg",
+          "sha256": "07789bcd985a2e4f25caf73fd97114b70f6f452ccc976d94643f35e6a0e76272"
+        },
+        {
+          "file": "06_faith_and_purpose.svg",
+          "sha256": "3df8adf0c72016c9c08926492bfbc7dd94f365ba3664ed3889aa4a2261e87c30"
+        },
+        {
+          "file": "07_body.svg",
+          "sha256": "a31e3c99dbc666657fd99410c5038f06322c5a4f04d0f9aeb28b8bbeb32c6ecf"
+        },
+        {
+          "file": "08_different_beliefs.svg",
+          "sha256": "a8c86a69db6c4f765c99e62fa07e07f89b5480d4941f8326f50255ad76cb238e"
+        },
+        {
+          "file": "09_spirituality_and_identity.svg",
+          "sha256": "c9f31d5772caf1c466c76a92343ae645ee9a3ab7a6072d32b95df83df55c6669"
+        },
+        {
+          "file": "10_faith_and_strong_values.svg",
+          "sha256": "d8fc2e45ea672cc56afe11809cdc12e8a90c40a91a33c379ab3d74c0f20bbc0f"
+        },
+        {
+          "file": "11_guides_decisions.svg",
+          "sha256": "5dd8cc41cd77c90fea027f816a8ddf1df59cb37570d67a7f5844b30d10882838"
+        },
+        {
+          "file": "12_hope_peace_strength.svg",
+          "sha256": "cc1707259eeab04aa14ede8e6f3ccb5e8eaee6d5b3a40b72b5e3211037dbb96d"
+        },
+        {
+          "file": "13_beliefs_into_actions.svg",
+          "sha256": "ddc208e9d2481aa1b2bad474e6a0f9ee1716e2235cdb08d32fe8a799c5b55588"
+        },
+        {
+          "file": "14_prayer_and_meditation.svg",
+          "sha256": "b845d89998830efa2a697b7574cac182c7da3a24815efaf21cc86a0061d5a39f"
+        },
+        {
+          "file": "15_religious_gatherings.svg",
+          "sha256": "535e0a8c3363e9f212a119e20b2718f9212d81a0f8b59697b8237c4cf687fb55"
+        },
+        {
+          "file": "16_reading_teachings.svg",
+          "sha256": "04d7c91f4b0edcc069634e414553e880d875300b01c5b978561f6333a5df9c05"
+        },
+        {
+          "file": "17_kindness_forgiveness_gratitude.svg",
+          "sha256": "080c6a61be0becfde11583e942246d2826257fbd4a48f090b1bbb86298004789"
+        },
+        {
+          "file": "18_moral_values.svg",
+          "sha256": "f1ec469bb2ade2135ed27493f3e2eeeed4434c19509aadf028e41afce30646e1"
+        },
+        {
+          "file": "19_positive_relationships.svg",
+          "sha256": "5f43169a66297cd538cb74f6a58351cc04953fd5e4157bfbcefc907376bc6bd4"
+        },
+        {
+          "file": "20_patience_acceptance_understanding.svg",
+          "sha256": "46aa08826189c4b6388a73bcb51c5ed542bf13e2bd80155e3e17308c72092708"
+        },
+        {
+          "file": "21_meaning_and_purpose.svg",
+          "sha256": "2325457fe19e2fec81caf8b7a42d41604372a2ff1e7b0f91f02f18be3b660597"
+        },
+        {
+          "file": "22_conclusion.svg",
+          "sha256": "f7815aefbcbe4072dd5988758e4d280125ce1ffc4d8485c109ca334c108262ac"
+        },
+        {
+          "file": "23_summary.svg",
+          "sha256": "bf67eba1198e7101b5fb0617399839669a74e7b7ea5d19d699c1b52a9f074901"
+        },
+        {
+          "file": "24_growth_and_wellbeing.svg",
+          "sha256": "ed3a8c54106d8fc06694c6c58c79e6593146cb89d051097724ced2f3eef0f345"
+        },
+        {
+          "file": "25_respecting_beliefs.svg",
+          "sha256": "2670b677067196e27501175f6782689bb4f3df23a036b06042df937000c8a4d8"
+        },
+        {
+          "file": "26_final_realization.svg",
+          "sha256": "2d9511a986df902daf7ec150da762e99d5970c12ca8b79ed5cb8a0c7efa670de"
+        }
+      ]
+    },
+    "authoring_roundtrip": null
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "slides": 26,
+    "notes": 26,
+    "masters": 1,
+    "layouts": 1
+  },
+  "checks": {
+    "zip_integrity": "passed",
+    "slide_count": "passed",
+    "internal_relationships": "enforced-at-build",
+    "structured_package": "not-applicable",
+    "transitions": "enforced-at-build",
+    "animations": "enforced-at-build",
+    "project_svg_contract": "enforced-at-build",
+    "compatibility_normalization": "not-applicable",
+    "authoring_roundtrip": "not-applicable",
+    "quality_gate": "passed",
+    "quality_warnings": "warning",
+    "template_tokens": "passed",
+    "external_images": "passed",
+    "font_portability": "passed"
+  },
+  "quality": {
+    "status": "loaded",
+    "path": "projects/spiritual_self_20261117/validation/svg_quality_report.json",
+    "schema": "ppt-master.svg-quality-report.v1",
+    "stage": "final",
+    "source_match": "passed",
+    "source_fingerprint": {
+      "algorithm": "sha256",
+      "digest": "072654ed86b08a1ffb76653b4ee09fb0cbd1999557dc8f9b38dc6de5acdf40ad",
+      "file_count": 26,
+      "files": [
+        {
+          "file": "01_cover.svg",
+          "sha256": "add1e26c58758148406eccceca94de6cfcc69d5b20d62d65fcfcfc90641ea6b0"
+        },
+        {
+          "file": "02_introduction.svg",
+          "sha256": "ec6f047ffd456f13025359218fdca7fadc58dbe2dfe0be6b7727c05efdbd6062"
+        },
+        {
+          "file": "03_definition_of_spiritual_self.svg",
+          "sha256": "4f69901dd4229440243879dee200a7cf9ae8a41dab58ee2288441b011d88a1ae"
+        },
+        {
+          "file": "04_meaning_and_importance.svg",
+          "sha256": "645ccba319c66ef15f76e91e2f5d9434cad00dda3953847364dbe5f3113430f8"
+        },
+        {
+          "file": "05_beliefs_values_behavior.svg",
+          "sha256": "07789bcd985a2e4f25caf73fd97114b70f6f452ccc976d94643f35e6a0e76272"
+        },
+        {
+          "file": "06_faith_and_purpose.svg",
+          "sha256": "3df8adf0c72016c9c08926492bfbc7dd94f365ba3664ed3889aa4a2261e87c30"
+        },
+        {
+          "file": "07_body.svg",
+          "sha256": "a31e3c99dbc666657fd99410c5038f06322c5a4f04d0f9aeb28b8bbeb32c6ecf"
+        },
+        {
+          "file": "08_different_beliefs.svg",
+          "sha256": "a8c86a69db6c4f765c99e62fa07e07f89b5480d4941f8326f50255ad76cb238e"
+        },
+        {
+          "file": "09_spirituality_and_identity.svg",
+          "sha256": "c9f31d5772caf1c466c76a92343ae645ee9a3ab7a6072d32b95df83df55c6669"
+        },
+        {
+          "file": "10_faith_and_strong_values.svg",
+          "sha256": "d8fc2e45ea672cc56afe11809cdc12e8a90c40a91a33c379ab3d74c0f20bbc0f"
+        },
+        {
+          "file": "11_guides_decisions.svg",
+          "sha256": "5dd8cc41cd77c90fea027f816a8ddf1df59cb37570d67a7f5844b30d10882838"
+        },
+        {
+          "file": "12_hope_peace_strength.svg",
+          "sha256": "cc1707259eeab04aa14ede8e6f3ccb5e8eaee6d5b3a40b72b5e3211037dbb96d"
+        },
+        {
+          "file": "13_beliefs_into_actions.svg",
+          "sha256": "ddc208e9d2481aa1b2bad474e6a0f9ee1716e2235cdb08d32fe8a799c5b55588"
+        },
+        {
+          "file": "14_prayer_and_meditation.svg",
+          "sha256": "b845d89998830efa2a697b7574cac182c7da3a24815efaf21cc86a0061d5a39f"
+        },
+        {
+          "file": "15_religious_gatherings.svg",
+          "sha256": "535e0a8c3363e9f212a119e20b2718f9212d81a0f8b59697b8237c4cf687fb55"
+        },
+        {
+          "file": "16_reading_teachings.svg",
+          "sha256": "04d7c91f4b0edcc069634e414553e880d875300b01c5b978561f6333a5df9c05"
+        },
+        {
+          "file": "17_kindness_forgiveness_gratitude.svg",
+          "sha256": "080c6a61be0becfde11583e942246d2826257fbd4a48f090b1bbb86298004789"
+        },
+        {
+          "file": "18_moral_values.svg",
+          "sha256": "f1ec469bb2ade2135ed27493f3e2eeeed4434c19509aadf028e41afce30646e1"
+        },
+        {
+          "file": "19_positive_relationships.svg",
+          "sha256": "5f43169a66297cd538cb74f6a58351cc04953fd5e4157bfbcefc907376bc6bd4"
+        },
+        {
+          "file": "20_patience_acceptance_understanding.svg",
+          "sha256": "46aa08826189c4b6388a73bcb51c5ed542bf13e2bd80155e3e17308c72092708"
+        },
+        {
+          "file": "21_meaning_and_purpose.svg",
+          "sha256": "2325457fe19e2fec81caf8b7a42d41604372a2ff1e7b0f91f02f18be3b660597"
+        },
+        {
+          "file": "22_conclusion.svg",
+          "sha256": "f7815aefbcbe4072dd5988758e4d280125ce1ffc4d8485c109ca334c108262ac"
+        },
+        {
+          "file": "23_summary.svg",
+          "sha256": "bf67eba1198e7101b5fb0617399839669a74e7b7ea5d19d699c1b52a9f074901"
+        },
+        {
+          "file": "24_growth_and_wellbeing.svg",
+          "sha256": "ed3a8c54106d8fc06694c6c58c79e6593146cb89d051097724ced2f3eef0f345"
+        },
+        {
+          "file": "25_respecting_beliefs.svg",
+          "sha256": "2670b677067196e27501175f6782689bb4f3df23a036b06042df937000c8a4d8"
+        },
+        {
+          "file": "26_final_realization.svg",
+          "sha256": "2d9511a986df902daf7ec150da762e99d5970c12ca8b79ed5cb8a0c7efa670de"
+        }
+      ]
+    },
+    "summary": {
+      "total": 26,
+      "passed": 22,
+      "warnings": 4,
+      "errors": 0
+    },
+    "categories": {
+      "blocking": {
+        "count": 0,
+        "issues": []
+      },
+      "introduced": {
+        "count": 6,
+        "issues": [
+          {
+            "file": "02_introduction.svg",
+            "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (6 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): section-topics:fill None -> '#1E2A36'; section-topics:font-size None -> '30'; text[10]:fill '#1E2A36' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+          },
+          {
+            "file": "02_introduction.svg",
+            "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"section-topics\"> x=80.0, y=560.0..606.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+          },
+          {
+            "file": "20_patience_acceptance_understanding.svg",
+            "message": "<text> (x=892, y=534; text='Understanding') exceeds <g id=\"quality-understanding\"> data-pptx-bounds on the horizontal axis: content (892.0, 503.4)-(1209.9, 546.6), container (860.0, 430.0)-(1208.0, 630.0), overflow horizontal 0.6%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈24.5 px per Latin char at 36px incl. headroom; ≈14 chars fit in 348 px"
+          },
+          {
+            "file": "22_conclusion.svg",
+            "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (6 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): section-topics:fill None -> '#1E2A36'; section-topics:font-size None -> '30'; text[10]:fill '#1E2A36' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+          },
+          {
+            "file": "22_conclusion.svg",
+            "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g id=\"section-topics\"> x=80.0, y=560.0..606.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+          },
+          {
+            "file": "26_final_realization.svg",
+            "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (6 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): final-quote:font-weight None -> 'bold'; final-quote:text-anchor None -> 'middle'; text[7]:font-weight 'bold' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+          }
+        ]
+      },
+      "inherited": {
+        "count": 0,
+        "issues": []
+      },
+      "source-import": {
+        "count": 0,
+        "summary": {
+          "warning_count": 0,
+          "by_code": {}
+        }
+      }
+    }
+  },
+  "resources": {
+    "unresolved_template_tokens": [],
+    "fonts": {
+      "stacks": [
+        "Arial, sans-serif",
+        "Georgia, serif"
+      ],
+      "generic_only_stacks": [],
+      "unsafe_exported_faces": []
+    },
+    "images": {
+      "data_uri": 0,
+      "local": 0,
+      "external": 0,
+      "external_references": []
+    }
+  },
+  "export_policy": {
+    "project_svg_contract": "strict",
+    "dangerous_normalization_count": 0
+  },
+  "deck_motion": {
+    "transition": {
+      "effect": "fade",
+      "effect_options": {},
+      "duration": 0.4,
+      "auto_advance": null,
+      "sound": null
+    },
+    "animation": {
+      "effect": "none",
+      "effect_request": null,
+      "duration": 0.4,
+      "stagger": 0.5,
+      "trigger": "after-previous"
+    },
+    "cli_overrides": {
+      "transition": false,
+      "transition_duration": false,
+      "auto_advance": false,
+      "transition_sound": false,
+      "animation": false,
+      "animation_duration": false,
+      "animation_stagger": false,
+      "animation_trigger": false
+    },
+    "narration_timings": false
+  },
+  "backup_path": "/home/user/Ppt/projects/spiritual_self_20261117/backup/20261117_232548/svg_output",
+  "conversion_trace_path": null
+}

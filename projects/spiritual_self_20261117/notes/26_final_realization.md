@@ -1,0 +1,1 @@
+Our final realization is this: spirituality helps individuals develop a meaningful life guided by faith, values, and purpose. Thank you for listening.

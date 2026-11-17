@@ -1,0 +1,1 @@
+Many spiritual teachings emphasize love, compassion, and respect. When people practice these values, they build healthy and supportive relationships, starting with their family, then reaching their friends, and finally extending to the wider community.

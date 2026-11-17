@@ -1,0 +1,1 @@
+Spirituality is expressed in many different ways. Some people follow organized religions such as Christianity, Islam, Buddhism, or Hinduism. Others consider themselves spiritual without belonging to any religion. Each of these paths offers its own way of understanding life and what people consider sacred.

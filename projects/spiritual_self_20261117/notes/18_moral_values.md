@@ -1,0 +1,1 @@
+Now we turn to personal development. Spirituality encourages moral values such as honesty, respect, responsibility, and fairness. These values help people tell right from wrong and make them trustworthy members of their families and communities.

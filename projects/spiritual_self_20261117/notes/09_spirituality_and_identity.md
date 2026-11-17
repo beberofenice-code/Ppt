@@ -1,0 +1,1 @@
+Spirituality is closely connected to personal identity. It influences how people see themselves, the communities they belong to, and the traditions they practice. When a person knows what they believe, it becomes easier to answer one of life's most basic questions: who am I?

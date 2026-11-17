@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227" />
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">II-C · SPIRITUAL PRACTICES</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 140">
+    <rect x="72" y="100" width="8" height="118" fill="#2A9D8F" />
+    <text font-size="52" font-weight="bold" fill="#1F3A5F" font-family="Georgia, serif" x="100" y="144">Practicing Kindness, Forgiveness,</text><text font-size="52" font-weight="bold" fill="#1F3A5F" font-family="Georgia, serif" x="100" y="208">and Gratitude</text></g>
+  <g id="lead" data-pptx-bounds="100 254 1108 56">
+    <text x="100" y="292" font-size="30" fill="#1E2A36">Spirituality is practiced not only in rituals but also in <tspan font-weight="bold" fill="#1F3A5F">how we treat others.</tspan></text>
+  </g>
+  <g id="practice-kindness" data-pptx-bounds="100 338 348 290">
+    <rect x="100" y="340" width="348" height="286" rx="14" fill="#EEF4F6" />
+    <circle cx="164" cy="404" r="36" fill="#2A9D8F" />
+    
+  <g transform="translate(142, 382) scale(1.83333)" fill="#FFFFFF">
+    <path d="M6.979 3.074a6 6 0 0 1 4.988 1.425l.037 .033l.034 -.03a6 6 0 0 1 4.733 -1.44l.246 .036a6 6 0 0 1 3.364 10.008l-.18 .185l-.048 .041l-7.45 7.379a1 1 0 0 1 -1.313 .082l-.094 -.082l-7.493 -7.422a6 6 0 0 1 3.176 -10.215z" />
+  </g>
+    <text x="128" y="488" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F">Kindness</text>
+    <text font-size="30" fill="#1E2A36" x="128" y="536">shows care for</text><text font-size="30" fill="#1E2A36" x="128" y="578">others</text></g>
+  <g id="practice-forgiveness" data-pptx-bounds="480 338 348 290">
+    <rect x="480" y="340" width="348" height="286" rx="14" fill="#EEF4F6" />
+    <circle cx="544" cy="404" r="36" fill="#2A9D8F" />
+    
+  <g transform="translate(522, 382) scale(1.83333)" fill="#FFFFFF">
+    <path d="M8 9.585v6.415h6.414l-2.707 2.707a1 1 0 0 1 -.112 .097l-.11 .071l-.114 .054l-.105 .035l-.149 .03l-.117 .006h-4.586l-1.707 1.707a1 1 0 1 1 -1.414 -1.414l1.707 -1.709v-4.584l.003 -.075l.017 -.126l.03 -.111l.044 -.111l.052 -.098l.067 -.096l.08 -.09z" />
+    <path d="M19.414 11l-3 3h-4.914l2.914 -3z" />
+    <path d="M13 4.586v4.998l-3 3v-4.999z" />
+    <path d="M16.482 3a4.515 4.515 0 0 1 4.518 4.514a4.7 4.7 0 0 1 -.239 1.487l-5.761 -.001v-5.76c.469 -.158 .968 -.24 1.482 -.24" />
+  </g>
+    <text x="508" y="488" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F">Forgiveness</text>
+    <text font-size="30" fill="#1E2A36" x="508" y="536">releases anger and</text><text font-size="30" fill="#1E2A36" x="508" y="578">heals relationships</text></g>
+  <g id="practice-gratitude" data-pptx-bounds="860 338 348 290">
+    <rect x="860" y="340" width="348" height="286" rx="14" fill="#EEF4F6" />
+    <circle cx="924" cy="404" r="36" fill="#2A9D8F" />
+    
+  <g transform="translate(902, 382) scale(1.83333)" fill="#FFFFFF">
+    <path d="M11 14v8h-4a3 3 0 0 1 -3 -3v-4a1 1 0 0 1 1 -1h6zm8 0a1 1 0 0 1 1 1v4a3 3 0 0 1 -3 3h-4v-8h6zm-2.5 -12a3.5 3.5 0 0 1 3.163 5h.337a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-7v-5h-2v5h-7a2 2 0 0 1 -2 -2v-1a2 2 0 0 1 2 -2h.337a3.486 3.486 0 0 1 -.337 -1.5c0 -1.933 1.567 -3.5 3.483 -3.5c1.755 -.03 3.312 1.092 4.381 2.934l.136 .243c1.033 -1.914 2.56 -3.114 4.291 -3.175l.209 -.002zm-9 2a1.5 1.5 0 0 0 0 3h3.143c-.741 -1.905 -1.949 -3.02 -3.143 -3zm8.983 0c-1.18 -.02 -2.385 1.096 -3.126 3h3.143a1.5 1.5 0 1 0 -.017 -3z" />
+  </g>
+    <text x="888" y="488" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F">Gratitude</text>
+    <text font-size="30" fill="#1E2A36" x="888" y="536">helps us appreciate</text><text font-size="30" fill="#1E2A36" x="888" y="578">what we have</text></g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">17</text>
+  </g>
+</svg>

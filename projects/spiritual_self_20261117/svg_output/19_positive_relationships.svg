@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227"/>
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">II-D · PERSONAL DEVELOPMENT</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 140">
+    <rect x="72" y="100" width="8" height="118" fill="#2A9D8F"/>
+    <text x="100" y="144" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#1F3A5F">Building Positive Relationships<tspan x="100" dy="64">with Others</tspan></text>
+  </g>
+  <g id="explanation" data-pptx-bounds="100 254 640 290">
+    <text x="100" y="292" font-size="30" fill="#1E2A36">Many spiritual teachings emphasize<tspan x="100" dy="44"><tspan font-weight="bold" fill="#1F3A5F">love, compassion, and respect</tspan> for</tspan><tspan x="100" dy="44">others. Practicing these values helps</tspan><tspan x="100" dy="44">people build healthy, supportive</tspan><tspan x="100" dy="44">relationships with family, friends,</tspan><tspan x="100" dy="44">and the wider community.</tspan></text>
+  </g>
+  <g id="relationship-circles" data-pptx-bounds="770 250 420 400">
+    <circle cx="980" cy="450" r="196" fill="#EEF4F6"/>
+    <circle cx="980" cy="450" r="134" fill="#D5DEE6"/>
+    <circle cx="980" cy="450" r="74" fill="#1F3A5F"/>
+    <text x="980" y="461" font-size="30" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Family</text>
+    <text x="980" y="361" font-size="30" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Friends</text>
+    <text x="980" y="295" font-size="30" font-weight="bold" fill="#2A9D8F" text-anchor="middle">Community</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">19</text>
+  </g>
+</svg>

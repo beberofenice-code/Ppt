@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227"/>
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">I · INTRODUCTION</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 140">
+    <rect x="72" y="100" width="8" height="118" fill="#2A9D8F"/>
+    <text x="100" y="144" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#1F3A5F">The Role of Faith in Understanding<tspan x="100" dy="64">Life's Purpose</tspan></text>
+  </g>
+  <g id="explanation" data-pptx-bounds="100 254 1108 150">
+    <text x="100" y="292" font-size="30" fill="#1E2A36"><tspan font-weight="bold" fill="#1F3A5F">Faith</tspan> is trust or confidence in something that cannot always be proven,<tspan x="100" dy="44">such as a higher power or a deeper order in life. It helps people answer</tspan><tspan x="100" dy="44">big questions and gives them <tspan font-weight="bold" fill="#1F3A5F">a reason to keep going.</tspan></tspan></text>
+  </g>
+<g id="p06-question-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRoundRectCallout" data-pptx-frame="100 436 560 120" data-pptx-av-adj1="val -30000" data-pptx-av-adj2="val 75000" data-pptx-av-adj3="val 16667" fill="#EEF4F6" stroke="#2A9D8F" stroke-width="3">
+<path d="M 100 456 A 20 20 0 0 1 120 436 L 193.33 436 L 193.33 436 L 333.33 436 L 640 436 A 20 20 0 0 1 660 456 L 660 506 L 660 506 L 660 536 L 660 536 A 20 20 0 0 1 640 556 L 333.33 556 L 212 586 L 193.33 556 L 120 556 A 20 20 0 0 1 100 536 L 100 536 L 100 506 L 100 506 Z"/>
+</g>
+  <g id="question-text" data-pptx-bounds="120 456 520 82">
+    <text x="380" y="510" font-family="Georgia, serif" font-size="36" font-style="italic" font-weight="bold" fill="#1F3A5F" text-anchor="middle">“Why am I here?”</text>
+  </g>
+  <g id="keyword-trust" data-pptx-bounds="720 432 488 64">
+    <rect x="720" y="434" width="488" height="60" rx="14" fill="#EEF4F6"/>
+    <use data-icon="tabler-filled/shield-check" x="742" y="446" width="36" height="36" fill="#2A9D8F"/>
+    <text x="796" y="475" font-size="30" font-weight="bold" fill="#1F3A5F">Trust</text>
+  </g>
+  <g id="keyword-questions" data-pptx-bounds="720 508 488 64">
+    <rect x="720" y="510" width="488" height="60" rx="14" fill="#EEF4F6"/>
+    <use data-icon="tabler-filled/eye" x="742" y="522" width="36" height="36" fill="#2A9D8F"/>
+    <text x="796" y="551" font-size="30" font-weight="bold" fill="#1F3A5F">Answers to big questions</text>
+  </g>
+  <g id="keyword-purpose" data-pptx-bounds="720 584 488 64">
+    <rect x="720" y="586" width="488" height="60" rx="14" fill="#EEF4F6"/>
+    <use data-icon="tabler-filled/flag" x="742" y="598" width="36" height="36" fill="#2A9D8F"/>
+    <text x="796" y="627" font-size="30" font-weight="bold" fill="#1F3A5F">Purpose in life</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">6</text>
+  </g>
+</svg>

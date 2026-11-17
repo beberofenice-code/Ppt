@@ -1,0 +1,1 @@
+Reading sacred texts and spiritual teachings, such as the Bible or the Qur'an, is another common practice. These writings offer lessons on how to live well. The process has three steps: people read the teachings, reflect on what they mean, and then apply them to daily life.

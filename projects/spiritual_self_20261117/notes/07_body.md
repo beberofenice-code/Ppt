@@ -1,0 +1,1 @@
+Now we move to the body of our discussion, which has four parts. First, understanding spirituality. Second, the role of spirituality in daily life. Third, common spiritual practices. And fourth, how spirituality supports personal development.

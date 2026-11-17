@@ -1,0 +1,1 @@
+Faith and strong values work like an anchor that keeps a boat steady in rough water. They give people stability when life feels uncertain, help them stay consistent in their choices, and guide them to act with integrity, doing the right thing even when it is hard.

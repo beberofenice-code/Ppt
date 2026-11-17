@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227"/>
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">II-C · SPIRITUAL PRACTICES</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 76">
+    <rect x="72" y="100" width="8" height="54" fill="#2A9D8F"/>
+    <text x="100" y="144" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#1F3A5F">Attending Religious Gatherings</text>
+  </g>
+  <g id="explanation" data-pptx-bounds="100 190 1108 186">
+    <text x="100" y="230" font-size="30" fill="#1E2A36">Gathering with others in places of worship or spiritual communities —<tspan x="100" dy="44">such as churches, mosques, or temples — <tspan font-weight="bold" fill="#1F3A5F">strengthens faith</tspan> and creates</tspan><tspan x="100" dy="44">a <tspan font-weight="bold" fill="#1F3A5F">sense of belonging.</tspan> Shared rituals and celebrations remind people</tspan><tspan x="100" dy="44">that they are not alone.</tspan></text>
+  </g>
+  <g id="keyword-community" data-pptx-bounds="100 428 348 184">
+    <rect x="100" y="430" width="348" height="180" rx="14" fill="#EEF4F6"/>
+    <circle cx="160" cy="490" r="34" fill="#1F3A5F"/>
+    <use data-icon="tabler-filled/home" x="140" y="470" width="40" height="40" fill="#FFFFFF"/>
+    <text x="126" y="574" font-size="30" font-weight="bold" fill="#1F3A5F">Community</text>
+  </g>
+  <g id="keyword-ritual" data-pptx-bounds="480 428 348 184">
+    <rect x="480" y="430" width="348" height="180" rx="14" fill="#EEF4F6"/>
+    <circle cx="540" cy="490" r="34" fill="#1F3A5F"/>
+    <use data-icon="tabler-filled/candle" x="520" y="470" width="40" height="40" fill="#FFFFFF"/>
+    <text x="506" y="574" font-size="30" font-weight="bold" fill="#1F3A5F">Shared Rituals</text>
+  </g>
+  <g id="keyword-belonging" data-pptx-bounds="860 428 348 184">
+    <rect x="860" y="430" width="348" height="180" rx="14" fill="#EEF4F6"/>
+    <circle cx="920" cy="490" r="34" fill="#1F3A5F"/>
+    <use data-icon="tabler-filled/heart" x="900" y="470" width="40" height="40" fill="#FFFFFF"/>
+    <text x="886" y="574" font-size="30" font-weight="bold" fill="#1F3A5F">Belonging</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">15</text>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+In difficult times such as illness, loss, or failure, faith offers three important things. Hope, the belief that things can get better. Peace, the ability to accept what cannot be changed. And strength, the will to keep going.

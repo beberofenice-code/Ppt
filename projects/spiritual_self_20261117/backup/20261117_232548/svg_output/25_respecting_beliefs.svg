@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#2A9D8F"/>
+    </marker>
+  </defs>
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227"/>
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">III · CONCLUSION</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 140">
+    <rect x="72" y="100" width="8" height="118" fill="#2A9D8F"/>
+    <text x="100" y="144" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#1F3A5F">Respecting Different Beliefs and<tspan x="100" dy="64">Religions</tspan></text>
+  </g>
+  <g id="explanation" data-pptx-bounds="100 254 1108 150">
+    <text x="100" y="292" font-size="30" fill="#1E2A36">People hold many different beliefs, and <tspan font-weight="bold" fill="#1F3A5F">each deserves respect.</tspan> Being<tspan x="100" dy="44">open-minded and tolerant helps prevent conflict, encourages understanding</tspan><tspan x="100" dy="44">between cultures, and allows everyone to live together peacefully.</tspan></text>
+  </g>
+  <g id="respect-path" data-pptx-bounds="100 446 1108 160">
+    <line x1="430" y1="526" x2="470" y2="526" stroke="#2A9D8F" stroke-width="4" marker-end="url(#arrowHead)"/>
+    <line x1="810" y1="526" x2="850" y2="526" stroke="#2A9D8F" stroke-width="4" marker-end="url(#arrowHead)"/>
+    <g id="step-tolerance">
+      <rect x="100" y="456" width="330" height="140" rx="14" fill="#EEF4F6"/>
+      <use data-icon="tabler-filled/puzzle" x="241" y="472" width="48" height="48" fill="#2A9D8F"/>
+      <text x="265" y="568" font-size="30" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Tolerance</text>
+    </g>
+    <g id="step-openness">
+      <rect x="480" y="456" width="330" height="140" rx="14" fill="#EEF4F6"/>
+      <use data-icon="tabler-filled/bulb" x="621" y="472" width="48" height="48" fill="#2A9D8F"/>
+      <text x="645" y="568" font-size="30" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Open-mindedness</text>
+    </g>
+    <g id="step-peace">
+      <rect x="860" y="456" width="348" height="140" rx="14" fill="#1F3A5F"/>
+      <use data-icon="tabler-filled/globe" x="1010" y="472" width="48" height="48" fill="#C9A227"/>
+      <text x="1034" y="568" font-size="30" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Living in Peace</text>
+    </g>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">25</text>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+Because people hold many different beliefs, each one deserves respect. Tolerance and open-mindedness help prevent conflict and build understanding between cultures. In the end, this respect allows everyone to live together in peace.

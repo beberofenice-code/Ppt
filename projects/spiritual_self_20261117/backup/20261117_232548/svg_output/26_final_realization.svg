@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="ending">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227"/>
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">III · CONCLUSION — FINAL REALIZATION</text>
+  </g>
+  <g id="final-quote" data-pptx-bounds="140 82 1000 334">
+    <text x="640" y="190" font-family="Georgia, serif" font-size="120" font-weight="bold" fill="#C9A227" text-anchor="middle">“</text>
+    <text x="640" y="262" font-size="46" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Spirituality helps individuals develop<tspan x="640" dy="62">a meaningful life guided by</tspan><tspan x="640" dy="62"><tspan fill="#2A9D8F">faith, values, and purpose.</tspan></tspan></text>
+  </g>
+  <g id="pillar-faith" data-pptx-bounds="160 440 300 200">
+    <circle cx="310" cy="510" r="56" fill="#EEF4F6"/>
+    <use data-icon="tabler-filled/candle" x="284" y="484" width="52" height="52" fill="#1F3A5F"/>
+    <text x="310" y="612" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Faith</text>
+  </g>
+  <g id="pillar-values" data-pptx-bounds="490 440 300 200">
+    <circle cx="640" cy="510" r="56" fill="#EEF4F6"/>
+    <use data-icon="tabler-filled/scale" x="614" y="484" width="52" height="52" fill="#1F3A5F"/>
+    <text x="640" y="612" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Values</text>
+  </g>
+  <g id="pillar-purpose" data-pptx-bounds="820 440 300 200">
+    <circle cx="970" cy="510" r="56" fill="#EEF4F6"/>
+    <use data-icon="tabler-filled/compass" x="944" y="484" width="52" height="52" fill="#1F3A5F"/>
+    <text x="970" y="612" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Purpose</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">26</text>
+  </g>
+</svg>

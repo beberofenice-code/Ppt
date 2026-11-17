@@ -1,0 +1,1 @@
+Good day, everyone. Our presentation today is about the spiritual self. We will look at spirituality in a general way, focusing on people and shared human experiences rather than on any one person's story.

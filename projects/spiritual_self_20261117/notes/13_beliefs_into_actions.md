@@ -1,0 +1,1 @@
+Spiritual beliefs are not only ideas in the mind; they appear in everyday actions. A person who values compassion may volunteer or help their neighbors. A person who values honesty will try to tell the truth. In short, behavior is the outward expression of inner beliefs.

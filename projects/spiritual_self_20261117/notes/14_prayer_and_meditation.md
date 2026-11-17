@@ -1,0 +1,1 @@
+Next, spiritual practices. Prayer is a way of communicating with God or a higher power, while meditation is the practice of quieting and focusing the mind. Although they are different, both bring similar benefits: time for reflection, less stress, and a feeling of calm and connection.

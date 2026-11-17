@@ -1,0 +1,1 @@
+Now we look at spirituality in daily life, beginning with decisions. When people face a choice, they often ask questions such as, is this right? or, will this hurt others? These questions come from values rooted in spirituality, and they help people make choices that are thoughtful and responsible.

@@ -1,0 +1,1 @@
+Let us now bring these ideas together in our conclusion. We will summarize why the spiritual self matters, how it supports growth and well-being, why we should respect different beliefs, and end with our final realization.

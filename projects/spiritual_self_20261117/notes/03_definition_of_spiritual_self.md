@@ -1,0 +1,1 @@
+First, what is the spiritual self? It is the part of a person that looks for meaning, purpose, and connection with something greater than oneself. For some people that is God or a higher power, for others it is nature or humanity as a whole. We can see the spiritual self in a person's beliefs, in their values, and in their inner sense of who they are.

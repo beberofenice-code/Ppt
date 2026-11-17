@@ -1,0 +1,1 @@
+In summary, the spiritual self is an essential part of being human. It shapes our beliefs, our values, and our actions, and it helps us find meaning and connection in everyday life.

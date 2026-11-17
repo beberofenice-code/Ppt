@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227" />
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">II-D · PERSONAL DEVELOPMENT</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 140">
+    <rect x="72" y="100" width="8" height="118" fill="#2A9D8F" />
+    <text font-size="52" font-weight="bold" fill="#1F3A5F" font-family="Georgia, serif" x="100" y="144">Learning Patience, Acceptance,</text><text font-size="52" font-weight="bold" fill="#1F3A5F" font-family="Georgia, serif" x="100" y="208">and Understanding</text></g>
+  <g id="explanation" data-pptx-bounds="100 254 1108 150">
+    <text font-size="30" fill="#1E2A36" x="100" y="292">Spiritual growth teaches people three important qualities. Together,</text><text font-size="30" fill="#1E2A36" x="100" y="336"><tspan>these qualities make people <tspan font-weight="bold" fill="#1F3A5F">more mature and resilient</tspan> when facing</tspan></text><text font-size="30" fill="#1E2A36" x="100" y="380">everyday challenges and relationships.</text></g>
+  <g id="quality-patience" data-pptx-bounds="100 430 348 200">
+    <rect x="100" y="432" width="348" height="196" rx="14" fill="#FFFFFF" stroke="#D5DEE6" stroke-width="2" />
+    <rect x="100" y="432" width="8" height="196" fill="#2A9D8F" />
+    
+  <g transform="translate(132, 452) scale(1.83333)" fill="#2A9D8F">
+    <path d="M6 3a7 7 0 0 1 6.95 6.155a6.97 6.97 0 0 1 5.05 -2.155h3a1 1 0 0 1 1 1v1a7 7 0 0 1 -7 7h-2v4a1 1 0 0 1 -2 0v-7h-2a7 7 0 0 1 -7 -7v-2a1 1 0 0 1 1 -1z" />
+  </g>
+    <text x="132" y="534" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F">Patience</text>
+    <text x="132" y="578" font-size="30" fill="#1E2A36">waiting calmly</text>
+  </g>
+  <g id="quality-acceptance" data-pptx-bounds="480 430 348 200">
+    <rect x="480" y="432" width="348" height="196" rx="14" fill="#FFFFFF" stroke="#D5DEE6" stroke-width="2" />
+    <rect x="480" y="432" width="8" height="196" fill="#2A9D8F" />
+    
+  <g transform="translate(512, 452) scale(1.83333)" fill="#2A9D8F">
+    <path d="M3.055 14.328l-.018 -.168l-.004 -.043a11 11 0 0 1 -.047 -1.12c.018 -6.29 4.29 -9.997 13 -9.997h4.014a1 1 0 0 1 1 1l-.002 2.057c-.498 8.701 -4.74 12.943 -11.998 12.943h-2.631a16 16 0 0 0 -.375 2.11a1 1 0 1 1 -1.988 -.22q .174 -1.568 .58 -2.947l-.118 -.146l-.208 -.28l-.157 -.229l-.182 -.293l-.098 -.171l-.065 -.122a6 6 0 0 1 -.397 -.941l-.072 -.237l-.085 -.327l-.057 -.268l-.043 -.242zm8.539 -4.242c-2.845 1.265 -4.854 3.13 -6.108 5.583q .098 .2 .218 .4l.185 .281l.07 .097q .12 .164 .258 .329l.197 .224h.649c1.037 -2.271 2.777 -3.946 5.343 -5.086a1 1 0 0 0 -.812 -1.828" />
+  </g>
+    <text x="512" y="534" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F">Acceptance</text>
+    <text font-size="30" fill="#1E2A36" x="512" y="578">embracing what</text><text font-size="30" fill="#1E2A36" x="512" y="616">cannot change</text></g>
+  <g id="quality-understanding" data-pptx-bounds="860 430 348 200">
+    <rect x="860" y="432" width="348" height="196" rx="14" fill="#FFFFFF" stroke="#D5DEE6" stroke-width="2" />
+    <rect x="860" y="432" width="8" height="196" fill="#2A9D8F" />
+    
+  <g transform="translate(892, 452) scale(1.83333)" fill="#2A9D8F">
+    <path d="M12 4c4.29 0 7.863 2.429 10.665 7.154l.22 .379l.045 .1l.03 .083l.014 .055l.014 .082l.011 .1v.11l-.014 .111a.992 .992 0 0 1 -.026 .11l-.039 .108l-.036 .075l-.016 .03c-2.764 4.836 -6.3 7.38 -10.555 7.499l-.313 .004c-4.396 0 -8.037 -2.549 -10.868 -7.504a1 1 0 0 1 0 -.992c2.831 -4.955 6.472 -7.504 10.868 -7.504zm0 5a3 3 0 1 0 0 6a3 3 0 0 0 0 -6" />
+  </g>
+    <text x="892" y="534" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#1F3A5F">Understanding</text>
+    <text font-size="30" fill="#1E2A36" x="892" y="578">seeing others'</text><text font-size="30" fill="#1E2A36" x="892" y="616">points of view</text></g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">20</text>
+  </g>
+</svg>

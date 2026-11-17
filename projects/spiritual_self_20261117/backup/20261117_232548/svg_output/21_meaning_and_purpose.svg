@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227"/>
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">II-D · PERSONAL DEVELOPMENT</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 140">
+    <rect x="72" y="100" width="8" height="118" fill="#2A9D8F"/>
+    <text x="100" y="144" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#1F3A5F">Finding Meaning and<tspan x="100" dy="64">Purpose in Life</tspan></text>
+  </g>
+  <g id="explanation" data-pptx-bounds="100 254 1108 150">
+    <text x="100" y="292" font-size="30" fill="#1E2A36">Ultimately, spirituality helps people discover <tspan font-weight="bold" fill="#1F3A5F">why their lives matter.</tspan><tspan x="100" dy="44">A clear sense of meaning and purpose gives direction to goals, motivates</tspan><tspan x="100" dy="44">people through hardship, and brings a deeper sense of fulfillment.</tspan></text>
+  </g>
+  <g id="purpose-links" data-pptx-bounds="100 430 1108 210">
+    <rect x="100" y="440" width="340" height="190" rx="14" fill="#1F3A5F"/>
+    <use data-icon="tabler-filled/sparkles" x="246" y="460" width="48" height="48" fill="#C9A227"/>
+    <text x="270" y="556" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Meaning and<tspan x="270" dy="44">Purpose</tspan></text>
+    <line x1="440" y1="535" x2="500" y2="535" stroke="#2A9D8F" stroke-width="4"/>
+    <line x1="500" y1="466" x2="500" y2="604" stroke="#2A9D8F" stroke-width="4"/>
+    <line x1="500" y1="466" x2="540" y2="466" stroke="#2A9D8F" stroke-width="4"/>
+    <line x1="500" y1="535" x2="540" y2="535" stroke="#2A9D8F" stroke-width="4"/>
+    <line x1="500" y1="604" x2="540" y2="604" stroke="#2A9D8F" stroke-width="4"/>
+    <g id="outcome-direction">
+      <rect x="540" y="438" width="668" height="56" rx="14" fill="#EEF4F6"/>
+      <use data-icon="tabler-filled/compass" x="560" y="448" width="36" height="36" fill="#2A9D8F"/>
+      <text x="612" y="477" font-size="30" fill="#1E2A36"><tspan font-weight="bold" fill="#1F3A5F">Direction</tspan> — goals to work toward</text>
+    </g>
+    <g id="outcome-motivation">
+      <rect x="540" y="507" width="668" height="56" rx="14" fill="#EEF4F6"/>
+      <use data-icon="tabler-filled/flame" x="560" y="517" width="36" height="36" fill="#2A9D8F"/>
+      <text x="612" y="546" font-size="30" fill="#1E2A36"><tspan font-weight="bold" fill="#1F3A5F">Motivation</tspan> — strength in hardship</text>
+    </g>
+    <g id="outcome-fulfillment">
+      <rect x="540" y="576" width="668" height="56" rx="14" fill="#EEF4F6"/>
+      <use data-icon="tabler-filled/star" x="560" y="586" width="36" height="36" fill="#2A9D8F"/>
+      <text x="612" y="615" font-size="30" fill="#1E2A36"><tspan font-weight="bold" fill="#1F3A5F">Fulfillment</tspan> — a deeper sense of joy</text>
+    </g>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">21</text>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+Faith is trust in something that cannot always be proven, such as a higher power or a deeper order in life. Faith helps people approach big questions like, why am I here? Answering such questions gives people a sense of purpose and a reason to keep going, even when life is difficult.

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="section-label" data-pptx-role="header" data-pptx-bounds="72 40 700 36">
+    <circle cx="78" cy="57" r="6" fill="#C9A227" />
+    <text x="94" y="64" font-size="20" font-weight="bold" fill="#4A5A6A">II-D · PERSONAL DEVELOPMENT</text>
+  </g>
+  <g id="title" data-pptx-bounds="72 92 1136 140">
+    <rect x="72" y="100" width="8" height="118" fill="#2A9D8F" />
+    <text font-size="52" font-weight="bold" fill="#1F3A5F" font-family="Georgia, serif" x="100" y="144">Finding Meaning and</text><text font-size="52" font-weight="bold" fill="#1F3A5F" font-family="Georgia, serif" x="100" y="208">Purpose in Life</text></g>
+  <g id="explanation" data-pptx-bounds="100 254 1108 150">
+    <text font-size="30" fill="#1E2A36" x="100" y="292">Ultimately, spirituality helps people discover <tspan font-weight="bold" fill="#1F3A5F">why their lives matter.</tspan></text><text font-size="30" fill="#1E2A36" x="100" y="336">A clear sense of meaning and purpose gives direction to goals, motivates</text><text font-size="30" fill="#1E2A36" x="100" y="380">people through hardship, and brings a deeper sense of fulfillment.</text></g>
+  <g id="purpose-links" data-pptx-bounds="100 430 1108 210">
+    <rect x="100" y="440" width="340" height="190" rx="14" fill="#1F3A5F" />
+    
+  <g transform="translate(246, 460) scale(2)" fill="#C9A227">
+    <path d="M16 19a1 1 0 0 1 0 -2a1 1 0 0 0 1 -1c0 -1.333 2 -1.333 2 0a1 1 0 0 0 1 1c1.333 0 1.333 2 0 2a1 1 0 0 0 -1 1c0 1.333 -2 1.333 -2 0a1 1 0 0 0 -1 -1" />
+    <path d="M3 11a5 5 0 0 0 5 -5c0 -1.333 2 -1.333 2 0a5 5 0 0 0 5 5c1.333 0 1.333 2 0 2a5 5 0 0 0 -5 5a1 1 0 0 1 -2 0a5 5 0 0 0 -5 -5c-1.333 0 -1.333 -2 0 -2" />
+    <path d="M16 7a1 1 0 0 1 0 -2a1 1 0 0 0 1 -1c0 -1.333 2 -1.333 2 0a1 1 0 0 0 1 1c1.333 0 1.333 2 0 2a1 1 0 0 0 -1 1c0 1.333 -2 1.333 -2 0a1 1 0 0 0 -1 -1" />
+  </g>
+    <text font-size="36" text-anchor="middle" font-weight="bold" fill="#FFFFFF" font-family="Georgia, serif" x="270" y="556">Meaning and</text><text font-size="36" text-anchor="middle" font-weight="bold" fill="#FFFFFF" font-family="Georgia, serif" x="270" y="600">Purpose</text><line x1="440" y1="535" x2="500" y2="535" stroke="#2A9D8F" stroke-width="4" />
+    <line x1="500" y1="466" x2="500" y2="604" stroke="#2A9D8F" stroke-width="4" />
+    <line x1="500" y1="466" x2="540" y2="466" stroke="#2A9D8F" stroke-width="4" />
+    <line x1="500" y1="535" x2="540" y2="535" stroke="#2A9D8F" stroke-width="4" />
+    <line x1="500" y1="604" x2="540" y2="604" stroke="#2A9D8F" stroke-width="4" />
+    <g id="outcome-direction">
+      <rect x="540" y="438" width="668" height="56" rx="14" fill="#EEF4F6" />
+      
+  <g transform="translate(560, 448) scale(1.5)" fill="#2A9D8F">
+    <path d="M17 3.34a10 10 0 1 1 -15 8.66l.005 -.324a10 10 0 0 1 14.995 -8.336zm-5 14.66a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m3.684 -10.949l-6 2a1 1 0 0 0 -.633 .633l-2.007 6.026l-.023 .086l-.017 .113l-.004 .068v.044l.009 .111l.012 .07l.04 .144l.045 .1l.054 .095l.064 .09l.069 .075l.084 .074l.098 .07l.1 .054l.078 .033l.105 .033l.109 .02l.043 .005l.068 .004h.044l.111 -.009l.07 -.012l.02 -.006l.019 -.002l.074 -.022l6 -2a1 1 0 0 0 .633 -.633l2 -6a1 1 0 0 0 -1.265 -1.265zm-1.265 2.529l-1.21 3.629l-3.629 1.21l1.21 -3.629l3.629 -1.21zm-9.419 1.42a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m14 0a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m-7 -7a1 1 0 1 0 0 2a1 1 0 0 0 0 -2" />
+  </g>
+      <text x="612" y="477" font-size="30" fill="#1E2A36"><tspan font-weight="bold" fill="#1F3A5F">Direction</tspan> — goals to work toward</text>
+    </g>
+    <g id="outcome-motivation">
+      <rect x="540" y="507" width="668" height="56" rx="14" fill="#EEF4F6" />
+      
+  <g transform="translate(560, 517) scale(1.5)" fill="#2A9D8F">
+    <path d="M10 2c0 -.88 1.056 -1.331 1.692 -.722c1.958 1.876 3.096 5.995 1.75 9.12l-.08 .174l.012 .003c.625 .133 1.203 -.43 2.303 -2.173l.14 -.224a1 1 0 0 1 1.582 -.153c1.334 1.435 2.601 4.377 2.601 6.27c0 4.265 -3.591 7.705 -8 7.705s-8 -3.44 -8 -7.706c0 -2.252 1.022 -4.716 2.632 -6.301l.605 -.589c.241 -.236 .434 -.43 .618 -.624c1.43 -1.512 2.145 -2.924 2.145 -4.78" />
+  </g>
+      <text x="612" y="546" font-size="30" fill="#1E2A36"><tspan font-weight="bold" fill="#1F3A5F">Motivation</tspan> — strength in hardship</text>
+    </g>
+    <g id="outcome-fulfillment">
+      <rect x="540" y="576" width="668" height="56" rx="14" fill="#EEF4F6" />
+      
+  <g transform="translate(560, 586) scale(1.5)" fill="#2A9D8F">
+    <path d="M8.243 7.34l-6.38 .925l-.113 .023a1 1 0 0 0 -.44 1.684l4.622 4.499l-1.09 6.355l-.013 .11a1 1 0 0 0 1.464 .944l5.706 -3l5.693 3l.1 .046a1 1 0 0 0 1.352 -1.1l-1.091 -6.355l4.624 -4.5l.078 -.085a1 1 0 0 0 -.633 -1.62l-6.38 -.926l-2.852 -5.78a1 1 0 0 0 -1.794 0l-2.853 5.78z" />
+  </g>
+      <text x="612" y="615" font-size="30" fill="#1E2A36"><tspan font-weight="bold" fill="#1F3A5F">Fulfillment</tspan> — a deeper sense of joy</text>
+    </g>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1100 656 108 36">
+    <text x="1208" y="684" font-size="20" fill="#4A5A6A" text-anchor="end">21</text>
+  </g>
+</svg>

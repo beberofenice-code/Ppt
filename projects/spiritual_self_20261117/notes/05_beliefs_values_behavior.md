@@ -1,0 +1,1 @@
+Spirituality works like a chain. What people believe shapes what they consider right and important, and those values then guide how they act. For example, someone who believes every person has worth will value respect, and that value shows when they treat others fairly. In this way, inner belief becomes visible in outward action.
